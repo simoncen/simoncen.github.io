@@ -1,3 +1,9 @@
+# Jinlin Cen
+The repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io
+
+# Activity 1
+<!-- ![Screenshot 1](screenshots/sc1.png) -->
+
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
