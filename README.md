@@ -5,6 +5,7 @@ The repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.i
 ![Screenshot 1](screenshots/sc1.png)
 
 # Activity 2
+The commit messeges in the first screenshot are intended for activity 2 ("activity 1" are typos), in this round of commits, profile picture and my personal information are added.
 ![Screenshot 2](screenshots/sc2.png)
 ![Screenshot 3](screenshots/sc3.png)
 
@@ -13,8 +14,8 @@ The repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.i
 ![Screenshot 4](screenshots/sc4.png)
 
 # Activity 4
-![Screenshot 4](screenshots/sc4.png)
-![Screenshot 4](screenshots/sc4.png)
+![Screenshot 6](screenshots/sc6.png)
+![Screenshot 7](screenshots/sc7.png)
 
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
