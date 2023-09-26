@@ -5,7 +5,8 @@ The repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.i
 ![Screenshot 1](screenshots/sc1.png)
 
 # Activity 2
-
+![Screenshot 2](screenshots/sc2.png)
+![Screenshot 3](screenshots/sc3.png)
 
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
